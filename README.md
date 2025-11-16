@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Kosey 👋  
 
-<!--
-**Kosey-Metloug/Kosey-Metloug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner AI & Computer Science student, passionate about Machine Learning, Software Development, and building real-world applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me  
+- 🎓 Student in Computer Science  
+- 🚀 Currently learning: Machine Learning, Python, JavaScript  
+- 👨‍💻 Interested in AI, Web Development, Mobile apps  
+- 📍 From Sidi Bel Abbès, Algeria  
+
+---
+
+## 🛠️ Current Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,github,git,figma,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,mongodb,express,nodejs,postgres" />
+</p>
+
+---
+
+## 🎯 Goals  
+- Improve my AI & ML skills  
+- Build full projects with real datasets  
+- Contribute to open-source  
+- Become a professional AI Engineer  
+
+---
+
+## 📫 Contact Me  
+- ✉ Email: k.metloug@esi-sba.dz  
+- 🔗 GitHub: github.com/Kosey-Metloug
