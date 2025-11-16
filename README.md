@@ -14,7 +14,7 @@ I'm a beginner AI & Computer Science student, passionate about Machine Learning,
 
 ## 🛠️ Current Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,github,git,figma,sketch,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,github,git,figma,Sketch,vscode" />
 </p>
 
 ---
